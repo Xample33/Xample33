@@ -8,6 +8,6 @@ You can find me here:
 
 [![Xample33's GitHub stats](https://github-readme-stats.vercel.app/api?username=xample33)](https://github.com/xample33/github-readme-stats)
 
-[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=appveyor&logoColor=white
 
 [1]: https://t.me/xamplee

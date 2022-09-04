@@ -10,4 +10,4 @@ You can find me here:
 
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
-[1]: https://twitter.com/7t_eric
+[1]: https://t.me/xamplee

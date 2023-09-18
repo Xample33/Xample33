@@ -1,9 +1,13 @@
-# Hello, i'm Peter <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, i'm Peter <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - Student @ Università degli studi di Genova, majoring in IT
+- Ethical Hacker in Zucchetti SPA
 
-[![Xample33's GitHub stats](https://github-readme-stats.vercel.app/api?username=xample33)](https://github.com/xample33/github-readme-stats)
+<br />
 
+[![Xample33's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xample33&theme=github)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xample33&theme=github)
+
+<br />
 You can find me here: 
 
 [![Telegram][1.2]][1]
